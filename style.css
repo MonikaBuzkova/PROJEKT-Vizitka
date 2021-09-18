@@ -14,3 +14,22 @@ tlačítko Facebook:				 #3b5998
 tlačítko Facebook aktivní: #2b406e
 */
 
+h1 {
+    size: 36px;
+    font-weight: bold;
+    color: #d63031;
+}
+
+p {
+    size: 18px;
+}
+
+a {
+    size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.box {
+    width: 550px;
+}
